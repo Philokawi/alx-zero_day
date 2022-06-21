@@ -1,1 +1,2 @@
-ALX Shool
+#!/bin/bash
+ echo "ALX"
